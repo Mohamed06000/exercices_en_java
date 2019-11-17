@@ -31,5 +31,18 @@ public class Main {
          b1*q1*2./x --> double et 800.0
          b1*q1*2.f/x --> float et 250.0 **/
 
+        // EXERCICE 3 : quels resultats fournit ce programme ?
+
+        /**
+         * y = Infinity
+         * Infinity divise par 0 = Infinity
+         * 15 divise par 0 = Infinity
+         * 0.0 divise par 0.0 = NaN
+         * NaN + 1 = NaN
+         * +Infinity/-Infinity = NaN
+         */
+
+
+
     }
 }
