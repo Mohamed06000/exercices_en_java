@@ -29,7 +29,7 @@ public class Main {
          x1+q1*n1 --> float et 50 002.5
          b1*q1/x1 --> float et 400.0
          b1*q1*2./x --> double et 800.0
-         b1*q1*2.f/x --> float et 250.0**/
+         b1*q1*2.f/x --> float et 250.0 **/
 
     }
 }
