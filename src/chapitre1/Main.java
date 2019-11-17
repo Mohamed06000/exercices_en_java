@@ -55,5 +55,30 @@ public class Main {
          */
 
 
+        // EXERCICE 5 : quels resultats fournit ce programme ?
+
+        /**
+         * &&1 faux
+         * i = 10 j = 5
+         * & faux
+         * i = 10 j = 6
+         * &&2 vrai
+         * i = 10 j =7
+         * || vrai
+         * i = 10 j = 7
+         */
+
+        // EXERCICE 6 : éliminer les parenthèses superflues
+
+        /**
+         * a = (x+5) --> a = x+5
+         * a = (x=y)+2 --> same
+         * a = (x = (y+2)) --> a = x = y+2
+         * (a<b) && (c<d) --> a<b && c<d
+         * (i++) * (n+p) --> i++ * (n+p)
+         * x += (n%p) --> x += n%p
+         * n = (p+=5) --> n = (p+=5)
+         */
+
     }
 }
