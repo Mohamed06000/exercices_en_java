@@ -42,6 +42,17 @@ public class Main {
          * +Infinity/-Infinity = NaN
          */
 
+        // EXERCICE 4 : donner le type et la valeur des expressions
+
+        char cc = 60, ce = 'e', cg = 'g';
+        byte bb =10;
+
+        /**
+         * c+1 --> int et 61
+         * 2*c --> int et 120
+         * cg - ce --> int et 2
+         * b*c --> int et 600
+         */
 
 
     }
