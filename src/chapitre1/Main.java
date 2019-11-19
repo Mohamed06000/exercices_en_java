@@ -80,5 +80,22 @@ public class Main {
          * n = (p+=5) --> n = (p+=5)
          */
 
+        // EXERCICE 7 : dire si l'expression est correct
+        /**
+         * byte b ; short p ; int n; long q;
+         * final int N=10;
+         * float x ; double y;
+         *
+         * b = n --> faux
+         * b=25 --> juste
+         * b = 500 --> faux
+         * x = 2*q --> vrai, conversion de long en float
+         * y=b*b --> vrai, conversion de byte en double
+         * p=b*b --> faux
+         * b=b+5 -->faux
+         * p=5*N-3 --> vrai
+         */
+
+
     }
 }
