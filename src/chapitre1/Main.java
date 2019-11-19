@@ -96,6 +96,14 @@ public class Main {
          * p=5*N-3 --> vrai
          */
 
+        // EXERCICE 8 : que fournit le programme
+        /**
+         * A : i = 1 n = 0
+         * B : i = 11 n = 11
+         * C : i = 21 j = 6 n = 120
+         * D : i = 18 n = 18
+         * E : i = 12 j=4 n = 12
+         */
 
     }
 }
